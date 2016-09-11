@@ -1,5 +1,5 @@
 # TestFirst
-第一个测试项目，联系练习
+第一个测试项目，练习
 echo # TestFirst >> README.md
 git init
 git add README.md
